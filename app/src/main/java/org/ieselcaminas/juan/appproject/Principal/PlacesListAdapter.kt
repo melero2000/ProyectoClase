@@ -1,5 +1,5 @@
 package org.ieselcaminas.juan.appproject.Principal
-
+//
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.TextView
